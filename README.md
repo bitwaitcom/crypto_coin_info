@@ -87,7 +87,7 @@
 
 ## U卡
 - 对于币圈投资者来说，USDT（简称U）是非常熟悉的数字货币之一。U是全球首款稳定币，是一种将加密货币与美元挂钩的虚拟货币。什么是u卡？U卡用起来和普通“银行卡”差不多，主要就是往里面充U、直接在ATM上取现、进行线上消费，也能刷pos机，可以直接花U来安排衣食住行，例如加油，支付停车费，超市消费，买菜卖水果、药店买药，基本都丝滑无压力。
-1. **[dupay](https://www.dupay.one/web-app/register-h5?invitCode=T95ERM&lang=zh-cn)**
+1. **[dupay](https://dupay.one/web-app/register-h5?invitCode=hQP6xw&lang=zh-cn)**
    Dupay Master Visa 卡支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal(国区、美区、港区)、天猫国际版等等。
 支持 ChatGPT Plus充值、Stripe 商户、google play 商店、youtube premium 、paypal 商户、美区苹果商店、支持和非 3DS 卡的电商网站。
 支持国内苹果官网直接绑卡购买 iPhone 和 Mac ，可能会打电话问询，直接说即可。
